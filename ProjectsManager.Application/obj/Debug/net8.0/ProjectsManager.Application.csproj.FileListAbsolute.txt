@@ -1,0 +1,45 @@
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.deps.json
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfoInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfo.cs
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CoreCompileInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\refint\ProjectsManager.Application.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ref\ProjectsManager.Application.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.AssemblyReference.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CopyComplete
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.deps.json
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.AssemblyReference.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfoInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfo.cs
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CopyComplete
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\refint\ProjectsManager.Application.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ref\ProjectsManager.Application.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.deps.json
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.AssemblyReference.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfoInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.AssemblyInfo.cs
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CoreCompileInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.csproj.CopyComplete
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\refint\ProjectsManager.Application.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ProjectsManager.Application.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Application\obj\Debug\net8.0\ref\ProjectsManager.Application.dll

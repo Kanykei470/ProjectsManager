@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Главная страница";
+}
+
+<!-- Page Features-->
+<div class="row gx-lg-5 d-flex align-items-center justify-content-center pt-5 pb-5">
+    <!-- Card for Employees -->
+    <div class="col-lg-6 col-xxl-4 mb-5 pt-5 pb-5">
+        <div class="card card-feature h-100 shadow-sm border-0">
+            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                <!-- Add an animated background or icon -->
+                <div class="feature bg-primary bg-gradient text-white rounded-circle p-4 mb-4 mt-n4 d-inline-block">
+                    <i class="bi bi-people-fill"></i>
+                </div>
+                <!-- Add a hover effect on the link -->
+                <h2 class="fs-4 fw-bold">
+                    <a class="link-primary" href="@Url.Action("AllEmployees", "Employees")">Сотрудники</a>
+                </h2>
+            </div>
+        </div>
+    </div>
+    <!-- Card for Projects -->
+    <div class="col-lg-6 col-xxl-4 mb-5 pt-5 pb-5">
+        <div class="card card-feature h-100 shadow-sm border-0">
+            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                <!-- Add an animated background or icon -->
+                <div class="feature bg-primary bg-gradient text-white rounded-circle p-4 mb-4 mt-n4 d-inline-block">
+                    <i class="bi bi-stack"></i>
+                </div>
+                <!-- Add a hover effect on the link -->
+                <h2 class="fs-4 fw-bold">
+                    <a class="link-primary" href="@Url.Action("AllProjects", "Projects")">Проекты</a>
+                </h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Add styles for cards */
+    .card-feature {
+        border-radius: 10px;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .card-feature:hover {
+            transform: scale(1.05);
+        }
+    /* Hover effect on links */
+    .link-primary {
+        text-decoration: none;
+        color: #007bff;
+    }
+
+        .link-primary:hover {
+            text-decoration: underline;
+            color: #0056b3;
+        }
+    /* Centered icons with rounded background */
+    .feature {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+</style>

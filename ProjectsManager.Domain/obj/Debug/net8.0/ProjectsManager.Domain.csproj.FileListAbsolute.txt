@@ -1,0 +1,33 @@
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.deps.json
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfoInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfo.cs
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.csproj.CoreCompileInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\refint\ProjectsManager.Domain.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ref\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.deps.json
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfoInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfo.cs
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\refint\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ref\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.deps.json
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfoInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.AssemblyInfo.cs
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.csproj.CoreCompileInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\refint\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectsManager.Domain\obj\Debug\net8.0\ref\ProjectsManager.Domain.dll

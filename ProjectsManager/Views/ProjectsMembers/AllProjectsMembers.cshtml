@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ProjectsManager.Application.DTO.ProjectsMembersDto>
+@{
+    ViewData["Title"] = "Сотрудники и проекты";
+}
+
+<h1 class="text-center pt-5 pb-4">Участие сотрудников в проекте</h1>
+<hr />
+
+<div class="mb-3 d-flex justify-content-between">
+    <a class="btn btn-success" asp-action="Add" asp-route-projectId="@ViewData["ProjectId"]">Добавить сотрудника</a>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-hover table-bordered table-striped my-0 text-center" id="TableProjects">
+        <thead class="table-secondary">
+        <tr>
+            <th>Название проекта</th>
+            <th>Сотрудник</th>
+            <th>Руководитель</th>
+            <th>Действия</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ProjectName)</td>
+                <td>@Html.DisplayFor(modelItem => item.EmployeeName)</td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsProjectManager)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm me-2" asp-action="Edit" asp-route-id="@item.Id">
+                        <i class="bi bi-pencil-square"></i> Редактировать
+                    </a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                        <i class="bi bi-trash"></i> Удалить
+                    </a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

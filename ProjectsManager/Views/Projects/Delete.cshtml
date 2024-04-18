@@ -1,0 +1,55 @@
+﻿@model ProjectsManager.Application.DTO.ProjectsDto
+
+@{
+    ViewData["Title"] = "Удаление";
+}
+<h3 class="text-center pt-5">Вы уверены, что хотите удалить запись?</h3>
+<div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <hr />
+    <dl class="row text-center">
+        <dt class="col-sm-6">
+            Название проекта
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-6">
+            Заказчик
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+        <dt class="col-sm-6">
+            Исполнитель
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.ExecutorName)
+        </dd>
+        <dt class="col-sm-6">
+            Дата начала
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class="col-sm-6">
+            Дата окончания
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+        <dt class="col-sm-6">
+            Приоритет проекта
+        </dt>
+        <dd class="col-sm-6">
+            @Html.DisplayFor(model => model.Priority)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <div class="d-flex justify-content-center pt-3 pb-3">
+            <a class="btn btn-primary edit" asp-action="AllProjects" asp-controller="Projects">Назад</a>
+            <input type="submit" value="Да, удалить" class="btn btn-danger deleted" style="margin-left:auto;" />
+        </div>
+    </form>
+</div>

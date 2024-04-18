@@ -1,0 +1,41 @@
+﻿@model ProjectsManager.Application.DTO.ProjectsMembersDto
+@{
+    ViewData["Title"] = "Добавление";
+}
+
+<h1 class="text-center">Добавление нового сотрудника в проект</h1>
+<hr />
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            <form asp-action="Add" method="post">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <input asp-for="ProjectId" type="hidden" />
+
+                <div class="mb-3">
+                    <label asp-for="ProjectName" class="form-label">Название проекта</label>
+                    <input asp-for="ProjectName" value="@ViewBag.ProjectName" class="form-control" readonly />
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="EmployeesId" class="form-label">Сотрудники в проекте</label>
+                    <select asp-for="EmployeesId" class="form-select" asp-items="ViewBag.EmployeeList"></select>
+                    <span asp-validation-for="EmployeesId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3 text-start">
+                    <label asp-for="IsProjectManager" class="control-label">Руководитель</label>
+                    <input asp-for="IsProjectManager" class="form-check-input" />
+                    <span asp-validation-for="IsProjectManager" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <a class="btn btn-secondary" asp-action="AllProjectsMembers" asp-route-projectId="@ViewBag.IDproject" asp-controller="ProjectsMembers">Назад</a>
+                    <input type="submit" value="Сохранить" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

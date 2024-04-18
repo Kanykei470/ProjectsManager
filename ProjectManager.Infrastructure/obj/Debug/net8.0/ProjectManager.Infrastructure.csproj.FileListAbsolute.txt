@@ -1,0 +1,51 @@
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.deps.json
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.runtimeconfig.json
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfo.cs
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CopyComplete
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\refint\ProjectManager.Infrastructure.dll
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.genruntimeconfig.cache
+C:\Kanykei's\Projects .NET\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ref\ProjectManager.Infrastructure.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.deps.json
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.runtimeconfig.json
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfo.cs
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CopyComplete
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\refint\ProjectManager.Infrastructure.dll
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.genruntimeconfig.cache
+C:\Users\egens\Downloads\Telegram Desktop\ProjectsManager\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ref\ProjectManager.Infrastructure.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.deps.json
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.runtimeconfig.json
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\bin\Debug\net8.0\ProjectsManager.Domain.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.AssemblyInfo.cs
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.csproj.CopyComplete
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\refint\ProjectManager.Infrastructure.dll
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.pdb
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ProjectManager.Infrastructure.genruntimeconfig.cache
+C:\Kanykei's\ProjectsManager\ProjectsManager\ProjectManager.Infrastructure\obj\Debug\net8.0\ref\ProjectManager.Infrastructure.dll

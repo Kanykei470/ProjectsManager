@@ -1,0 +1,30 @@
+﻿@model ProjectsManager.Application.DTO.ProjectsMembersDto
+@{
+    ViewData["Title"] = "Удаление";
+}
+
+<h3 class="text-center pt-5">Подтвердите удаление</h3>
+<div class="container py-4">
+    <hr />
+    <div class="row text-center">
+        <div class="col-md-6">
+            <p><strong>Название проекта:</strong></p>
+            <p>@Html.DisplayFor(model => model.ProjectName)</p>
+        </div>
+        <div class="col-md-6">
+            <p><strong>Сотрудники в проекте:</strong></p>
+            <p>@Html.DisplayFor(model => model.EmployeeName)</p>
+        </div>
+        <div class="col-md-6 mt-3">
+            <p><strong>Руководитель:</strong></p>
+            @Html.DisplayFor(model => model.IsProjectManager)
+</div>
+</div>
+
+<form asp-action="Delete" method="post" class="mt-4">
+    <div class="d-flex justify-content-center">
+        <a class="btn btn-secondary me-2" asp-action="AllProjectsMembers" asp-route-projectId="@Model.ProjectId" asp-controller="ProjectsMembers">Назад</a>
+        <input type="submit" value="Да, удалить" class="btn btn-danger" />
+    </div>
+</form>
+</div>

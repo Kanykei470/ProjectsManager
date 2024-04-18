@@ -1,0 +1,50 @@
+﻿@model ProjectsManager.Application.DTO.EmployeesDto
+@{
+    ViewData["Title"] = "Обновление информации о сотруднике";
+}
+<h1 class="text-center mb-4">Редактирование информации о сотруднике</h1>
+
+<div class="container-fluid p-0">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <form asp-action="Edit" method="post" class="card shadow-sm p-4">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger d-none"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Name Input -->
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="form-label">Имя</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Middle Name Input -->
+                <div class="form-group mb-3">
+                    <label asp-for="MiddleName" class="form-label">Фамилия</label>
+                    <input asp-for="MiddleName" class="form-control" />
+                    <span asp-validation-for="MiddleName" class="text-danger"></span>
+                </div>
+
+                <!-- Last Name Input -->
+                <div class="form-group mb-3">
+                    <label asp-for="LastName" class="form-label">Отчество</label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+
+                <!-- Email Input -->
+                <div class="form-group mb-3">
+                    <label asp-for="Email" class="form-label">Email</label>
+                    <input asp-for="Email" class="form-control" type="email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="d-flex justify-content-between mt-4">
+                    <a class="btn btn-outline-secondary" asp-action="AllEmployees" asp-controller="Employees">Назад</a>
+                    <input type="submit" value="Сохранить" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

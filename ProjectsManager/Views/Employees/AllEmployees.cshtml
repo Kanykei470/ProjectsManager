@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ProjectsManager.Application.DTO.EmployeesDto>
+
+@{
+    ViewData["Title"] = "Сотрудники";
+}
+
+<div class="container">
+    <h1 class="text-center py-4">Все сотрудники</h1>
+    <hr />
+
+    <!-- Add New Employee Button -->
+    <div class="mb-3 text-end">
+        <a class="btn btn-success" asp-action="Add">Добавить нового сотрудника</a>
+    </div>
+
+    <!-- Employees Table -->
+    <table class="table table-striped table-bordered text-center" id="employeesTable">
+        <thead class="table-light">
+            <tr>
+                <th>Имя сотрудника</th>
+                <th>Фамилия</th>
+                <th>Отчество</th>
+                <th>Email</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => employee.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => employee.MiddleName)</td>
+                    <td>@Html.DisplayFor(modelItem => employee.LastName)</td>
+                    <td>@Html.DisplayFor(modelItem => employee.Email)</td>
+                    <td>
+                        <a class="btn btn-outline-primary btn-sm me-2" asp-action="Edit" asp-route-Id="@employee.Id" title="Редактировать">
+                            <i class="bi bi-pencil-square"></i>
+                        </a>
+                        <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-Id="@employee.Id" title="Удалить">
+                            <i class="bi bi-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- DataTables Scripts -->
+<script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Initialize DataTable
+        $('#employeesTable').DataTable({
+            lengthChange: false,
+            pageLength: 10,
+            info: false,
+            language: {
+                paginate: {
+                    first: 'Первая',
+                    last: 'Последняя',
+                    next: 'Следующая',
+                    previous: 'Предыдущая'
+                }
+            },
+            columns: [
+                null, null, null, null,
+                { orderable: false } // Actions column
+            ]
+        });
+    });
+</script>
